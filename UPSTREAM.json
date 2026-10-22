@@ -1,0 +1,13 @@
+{
+  "tool_repository": "https://github.com/rtk-ai/rtk",
+  "tool_version": "1.0.1",
+  "binary": "/opt/homebrew/bin/rtk",
+  "binary_sha256": "6f1bd218eeeeca2b2acafe0897f1af06b3ed85bda6e2652dd9f7ab4f9e98b9da",
+  "skill_author": "Codex",
+  "skill_version": "1.0.0",
+  "routes": [
+    "saved pytest overview",
+    "marked saved git-log overview"
+  ],
+  "automatic_hooks": false
+}
